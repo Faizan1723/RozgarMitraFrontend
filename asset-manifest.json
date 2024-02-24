@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RozgarMitraFrontend/static/css/main.58bcb973.css",
+    "main.js": "/RozgarMitraFrontend/static/js/main.c570a7a7.js",
+    "static/js/787.601d35a6.chunk.js": "/RozgarMitraFrontend/static/js/787.601d35a6.chunk.js",
+    "index.html": "/RozgarMitraFrontend/index.html",
+    "main.58bcb973.css.map": "/RozgarMitraFrontend/static/css/main.58bcb973.css.map",
+    "main.c570a7a7.js.map": "/RozgarMitraFrontend/static/js/main.c570a7a7.js.map",
+    "787.601d35a6.chunk.js.map": "/RozgarMitraFrontend/static/js/787.601d35a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58bcb973.css",
+    "static/js/main.c570a7a7.js"
+  ]
+}
